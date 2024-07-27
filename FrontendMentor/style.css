@@ -1,0 +1,80 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+.Navbar .Container{
+    
+    background-color: rgb(34, 33, 33);
+    border-radius: 10px;
+    height: 410px;
+    width: 300px;
+    margin-left: 500px;
+    margin-top: 100px;
+    padding-top:10px;
+    padding-left: 30px;
+
+}
+h2{
+    padding-left: 40px;
+}
+h6{
+    padding-left: 30px;
+}
+p{
+    color: lawngreen;
+    font-size: smaller;
+    padding-left:60px ;
+}
+img{
+    border-radius:40px;
+    margin-left: 70px;
+}
+.Github{
+    border-radius: 2px;
+    background-color: grey;
+    width: 250px;
+    padding-left: 95px;
+    padding-top: 5px;
+    height: 30px;
+
+}
+.FEMaster{
+    border-radius: 2px;
+    background-color: grey;
+    width: 250px;
+    padding-left: 70px;
+    height: 30px;
+    padding-top: 5px;
+}
+.Linkedin{
+    border-radius: 2px;
+    background-color: grey;
+    width: 250px;
+    padding-left: 95px;
+    height: 30px;
+    padding-top: 5px;
+}
+
+.Twitter{
+    border-radius: 2px;
+    background-color: grey;
+    width: 250px;
+    padding-left: 95px;
+    height: 30px;
+    padding-top: 5px;
+}
+.Instagram{
+    border-radius: 2px;
+    background-color: grey;
+    width: 250px;
+    padding-left: 95px;
+    height: 30px;
+    padding-top: 5px;
+}
